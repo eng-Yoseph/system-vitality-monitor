@@ -1,20 +1,19 @@
 # System Vitality Monitor
 
-## Overview
-This project monitors system health using Python. It gathers system information like CPU usage, memory usage, and disk space usage and generates an HTML report.
+## Übersicht
+Dieses Projekt überwacht die Systemgesundheit mithilfe von Python. Es sammelt Systeminformationen wie CPU-Auslastung, Speicherauslastung und Festplattenauslastung und generiert einen HTML-Bericht.
 
-## Features
-- Monitor CPU, memory, and disk usage.
-- Generate a simple HTML report.
-- Easily customizable for other system metrics.
+## Funktionen
+- Überwacht CPU-, Speicher- und Festplattenauslastung.
+- Generiert einen einfachen HTML-Bericht.
+- Leicht anpassbar für andere Systemmetriken.
 
-## Prerequisites
+## Voraussetzungen
 - Python 3.x
-- The `psutil` and `jinja2` Python libraries (used for system health checks and report generation).
+- Die Python-Bibliotheken `psutil` und `jinja2` (verwendet für die Überprüfung der Systemgesundheit und die Berichterstellung).
 
 ## Installation
 
-1. Clone the repository:
+1. Klone das Repository:
    ```bash
    git clone https://github.com/eng-Yoseph/system-vitality-monitor.git
-
