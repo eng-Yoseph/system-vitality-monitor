@@ -1,4 +1,4 @@
-# Systemgesundheit Mithilfe
+# System-Gesundheitsmonitor 
 
 ## Übersicht
 Dieses Projekt überwacht die Systemgesundheit mithilfe von Python. Es sammelt Systeminformationen wie CPU-Auslastung, Speicherauslastung und Festplattenauslastung und generiert einen HTML-Bericht.
