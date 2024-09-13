@@ -1,4 +1,4 @@
-# System Vitality Monitor
+# Systemgesundheit Mithilfe
 
 ## Übersicht
 Dieses Projekt überwacht die Systemgesundheit mithilfe von Python. Es sammelt Systeminformationen wie CPU-Auslastung, Speicherauslastung und Festplattenauslastung und generiert einen HTML-Bericht.
